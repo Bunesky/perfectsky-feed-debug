@@ -9,7 +9,6 @@ Shows raw posts, averages, media percentages, and post-type distribution — the
 • Analytics only: https://bunesky.github.io/perfectsky-post/
 • Analytics + result: https://bunesky.github.io/perfectsky-perfect-post/
 • Bot: https://github.com/Bunesky/perfectsky-post-bot
-• Feed debug tool: https://bunesky.github.io/perfectsky-feed-debug/
 
 
 ### Contact
